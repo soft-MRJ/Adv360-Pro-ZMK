@@ -51,11 +51,11 @@
         Symbol {
             display-name = "Kp";
             bindings = <
-&kp LS(EQUAL)          &kp EQUAL              &kp LS(N8)     &kp LS(N9)     &trans               &trans             &trans                                                     &trans  &trans          &trans          &trans        &trans           &trans  &trans
-&kp LS(N1)             &kp RA(N7)             &kp BACKSLASH  &kp LS(N2)     &kp RA(N0)           &kp LS(MINUS)      &none                                                      &none   &trans          &trans          &trans        &trans           &trans  &trans
-&kp LS(NUMBER_3)       &kp LS(RIGHT_BRACKET)  &kp LS(N0)     &kp LS(SLASH)  &kp RA(NUMBER_4)     &kp LS(BACKSLASH)  &none       &trans             &trans      &trans  &trans  &none   &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &trans  &trans
-&kp RA(NUMBER_2)       &kp NON_US_BSLH        &kp RA(EQUAL)  &kp SLASH      &kp LS(NON_US_BSLH)  &kp LS(N7)                                        &trans      &trans                  &kp RA(N7)      &kp LS(N8)      &kp LS(N9)    &kp RA(N0)       &trans  &trans
-&kp RA(RIGHT_BRACKET)  &kp LS(N6)             &kp RA(N8)     &kp RA(N9)     &kp LS(KP_PLUS)                         &kp LS(N5)  &kp RA(LESS_THAN)  &trans      &trans  &trans  &trans                  &kp RA(N8)      &kp RA(N9)    &trans           &trans  &trans
+&kp LS(EQUAL)          &kp EQUAL              &kp LS(N8)     &kp LS(N9)     &trans               &trans             &trans                                                            &trans  &trans          &trans          &trans        &trans           &trans  &trans
+&kp LS(N1)             &kp RA(N7)             &kp BACKSLASH  &kp LS(N2)     &kp RA(N0)           &kp LS(MINUS)      &none                                                             &none   &trans          &trans          &trans        &trans           &trans  &trans
+&kp LS(NUMBER_3)       &kp LS(RIGHT_BRACKET)  &kp LS(N0)     &kp LS(SLASH)  &kp RA(NUMBER_4)     &kp LS(BACKSLASH)  &none       &trans                    &trans      &trans  &trans  &none   &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &trans  &trans
+&kp RA(NUMBER_2)       &kp NON_US_BSLH        &kp RA(EQUAL)  &kp SLASH      &kp LS(NON_US_BSLH)  &kp LS(N7)                                               &trans      &trans                  &kp RA(N7)      &kp LS(N8)      &kp LS(N9)    &kp RA(N0)       &trans  &trans
+&kp RA(RIGHT_BRACKET)  &kp LS(N6)             &kp RA(N8)     &kp RA(N9)     &kp LS(KP_PLUS)                         &kp LS(N5)  &kp RA(NON_US_BACKSLASH)  &trans      &trans  &trans  &trans                  &kp RA(N8)      &kp RA(N9)    &trans           &trans  &trans
             >;
         };
 
